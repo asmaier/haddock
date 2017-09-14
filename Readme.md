@@ -9,6 +9,11 @@ The sources for the curses are
 
 Pull requests for other languages are welcome.
 
+## Installation
+Clone the git repository and execute the following command in the repository folder:
+
+    python setup.py install
+
 ## Usage
 
     import haddock

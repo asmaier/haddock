@@ -1,0 +1,1 @@
+from .haddock import curse
