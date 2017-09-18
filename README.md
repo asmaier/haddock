@@ -25,16 +25,19 @@ Clone the git repository and execute the following command in the repository fol
 ## Usage
 
     import haddock
-    >>> print haddock.curse()
+    >>> print(haddock.curse())
     anthropophagus!
-    >>> print haddock.curse(title=True)
+
+You can use the [title() method](https://docs.python.org/3/library/stdtypes.html#str.title) from Python standard library to capitalize your swears.
+
+    >>> print(haddock.curse().title())
     Brontosaurus!
-    >>> print haddock.curse(lang="de", title=True)
+    >>> print(haddock.curse(lang="de").title())
     Sie Logarithmus!
-    >>> print(haddock.curse(lang="fr", title=True))
+    >>> print(haddock.curse(lang="fr").title())
     Bande D'Ectoplasmes De Tonnerre De Brest 
 
-You can also wrap existing exception message like
+You can decorate existing exception message with curses.
 
     >>> try: 0/0
     ... except Exception as e: print(e.message + ", " + haddock.curse() + "!")

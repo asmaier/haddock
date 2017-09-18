@@ -17,18 +17,11 @@ file_en = open(curses_en, encoding="utf-8").readlines()
 file_de = open(curses_de, encoding="utf-8").readlines()
 file_fr = open(curses_fr, encoding="utf-8").readlines()
 
-def curse(lang="en", title=False):
-
-	curse = ""
+def curse(lang="en"):
 
 	if lang=="de":
-		curse = random.choice(file_de).strip()
+		return random.choice(file_de).strip()
 	elif lang=="fr":
-		curse = random.choice(file_fr).strip()		
+		return random.choice(file_fr).strip()		
 	else:
-		curse = random.choice(file_en).strip()
-
-	if title:
-		return curse.title()
-	else:
-		return curse	
+		return random.choice(file_en).strip()
