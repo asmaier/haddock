@@ -1,222 +1,220 @@
-Pirates!
-Doryphores!
-Gobbledygooks!
-Filibusters!
-Slubberdegullions!
-Patagonians!
-Vampires!
-Sycophant!
-Kleptomaniacs!
-Egoists!
-Tramps!
-Monopolizers!
-Pockmarks!
-Belemnite!
-Crooks!
-Miserable earthworms!
-Coconuts!
-Harlequin!
-Parasites!
-Macrocephalic baboon!
-Brutes!
-Guano gatherer!
-Pachyrhizus!
-Toads!
-Gyroscope!
-Bougainvillea!
-Bloodsuckers!
-Nincompoop!
-Shipwreckers!
-Cyclone!
-Gallows-fodder!
-Politician!
-Baboon!
-Torturers!
-Fuzzy-wuzzy!
-Blackbird!
-Mountebanks!
-Cannibal!
-Duck-billed platypus!
-Black-beetles!
-Rhizopods!
-Ruffian!
-Vermicellis!
-Lily-livered bandicoots!
-Rats!
-Logarithm!
-Cro-Magnon!
-Freshwater swabs!
-Beasts!
-Bully!
-Anthropophagus!
-Pithecanthropuses!
-Savages!
-Gangsters!
-Wreckers!
-Vandal!
-Carpet-sellers!
-Numbskulls!
-Gang of thieves!
-Slave-trader!
-Picaroons!
-Visigoths!
-Toffee-noses!
-Anacoluthons!
-Hydrocarbon!
-Technocrat!
-Buccaneer!
-Traitors!
-Caterpillars!
-Odd-toed ungulate!
-Woodlice!
-Polynesian!
-Swine!
-Blackguards!
-Vegetarian!
-Dizzards!
-Fancy-dress freebooters!
-Centipede!
-Sea-lice!
-Ectoplasm!
-Fat faces!
-Artichokes!
-Troglodytes!
-Turncoats!
-Bashi-bazouks!
-Olympic Athlete!
-Ectoplasmic Byproduct!
-Balkan Beetle!
-Two-timing Tartar Twisters!
-Terrapins!
-Breathalyser!
-Profiteers!
-Abecedarians!
-Vulture!
-Pyrographers!
-Phylloxera!
-Dogs!
-Hooligans!
-Steamrollers!
-Body-snatcher!
-Ostrogoth!
-Brigand!
-Heretic!
-Blackamoor!
-Anthracite!
-Black marketeers!
-Ophicleides!
-Dynamiter!
-Pickled herrings!
-Gibbering ghost!
-Corsair!
-Moujiks!
-Bootlegger!
-Gogglers!
-Villain!
-Aborigine!
-Bagpipers!
-Crab-apples!
-Goosecaps!
-Aztecs!
-Paranoiac!
-Twister!
-Vagabonds!
-Sea-gherkins!
-Road-hogs!
-Hi-jackers!
-Zapotecs!
-Cercopithecus!
-Psychopath!
-Nest of rattlesnakes!
-Jellied-eel!
-Liquorice!
-Coelacanth!
-Invertebrate!
-Nyctalops!
-Mameluke!
-Dipsomaniac!
-Diplodocus!
-Cowards!
-Megalomaniac!
-Highwayman!
-Autocrats!
-Bandit!
-Nitwits!
-Polygraphs!
-Iconoclast!
-Orangoutang!
-Squawking popinjay!
-Prattling porpoise!
-Scoffing braggart!
-Murderers!
-Rotten sand-hoppers!
-Freshwater pirates!
-Marmeluke!
-Bulldozer!
-Boneheads!
-Dunderheaded coconuts!
-Cut-throat!
-Viper!
-Gallows-bird!
-Carpathian caterpillar!
-Carpathian Bashi-bazouks!
-Miserable molecule of mildew!
-Interplanetary-pirate!
-Freshwater-spaceman!
-Prize Nincompoop!
-Scorpion!
-Unfeeling Monsters!
-Infernal Mileage Merchants!
-Weevil!
-Dictatorial duck billed diplodocus!
-Puffed up punchinello!
-Thundering herd of zapotecs!
-Borgia!
-Miserable blundering barbecued blister...
-Subtropical sea louse!
-Poisoners!
-Tribe of Polynesians!
-Nitwitted ninepins!
-Vivisectionists!
-Fancy-dress Fatima!
-Anachronisms!
-Anamorphic aardvark!
-Fancy-dress fascist!
-Confounded rattletrap!
-Tin-can contraption!
-Stool-pigeon!
-Musical morons!
-Whipper-Snapper!
-Abominable Snowmen!
-Jelly-fish!
-Flaming Jack-in-a-box!
-Brontosaurus!
-Dunder-headed Ethelreds!
-Prize purple jelly-fishes!
-Jack-pudding!
-Interplanetary goat!
+abecedarians!
+abominable snowmen!
+aborigine!
+addle-pated lumps of anthracite!
+anachronisms!
+anacoluthons!
+anamorphic aardvark!
+anthracite!
+anthropithecus!
+anthropophagus!
+arabesque!
+arabian nightmare!
+artichokes!
+autocrats!
+aztecs!
+baboon!
+bagpipers!
+balkan beetle!
+band of thugs!
+bandit!
+bashi-bazouks!
+beasts!
+belemnite!
+big-head!
+black marketeers!
+black-beetles!
+blackamoor!
+blackbird!
+blackguards!
+blithering bombardier!
+bloodsuckers!
+body-snatcher!
+boneheads!
+bootlegger!
+borgia!
+bougainvillea!
+breathalyser!
+brigand!
+brontosaurus!
+brutes!
+buccaneer!
+bulldozer!
+bully!
+cannibal!
+carpathian bashi-bazouks!
+carpathian caterpillar!
+carpet-sellers!
+caterpillars!
+centipede!
+cercopithecus!
+coconuts!
+coelacanth!
+confounded rattletrap!
+corsair!
+cowards!
+crab-apples!
+cro-magnon!
+crooks!
+cut-throat!
+cyclone!
+cyclotron!
+dictatorial duck billed diplodocus!
+diplodocus!
+dipsomaniac!
+dizzards!
+dogs!
+doryphores!
+duck-billed platypus!
+dunder-headed Ethelreds!
+dunderheaded coconuts!
+dynamiter!
+ectoplasm!
+ectoplasmic byproduct!
+egoists!
+fancy-dress fatima!
+fancy-dress fascist!
+fancy-dress freebooters!
+fat faces!
+filibusters!
+flaming jack-in-a-box!
+fresh water pirate!
+freshwater pirates!
+freshwater swabs!
+freshwater-spaceman!
+fuzzy-wuzzy!
+gallows-bird!
+gallows-fodder!
+gang of thieves!
+gangsters!
+gibbering ghost!
+gobbledygooks!
+gogglers!
+goosecaps!
+guano gatherer!
+gyroscope!
+harlequin!
+heretic!
+hi-jackers!
+highwayman!
+hooligans!
+hydrocarbon!
+iconoclast!
+infernal mileage merchants!
+insolent porcupine!
+interplanetary goat!
+interplanetary-pirate!
+invertebrate!
+jack-pudding!
+jellied-eel!
+jelly-fish!
+jobbernowl!
+kleptomaniacs!
 Ku-Klux-Klan!
-Cyclotron!
-Bully!
-Moth-eaten marmot!
-Jobbernowl!
-Anthropithecus!
-Arabian nightmare!
-Misguided missile!
-Megacycle!
-Pyromaniac!
-Big-head!
-Poltroons!
-Addle-pated lumps of anthracite!
-Blithering bombardier!
-Thundering son of a sea-gherkin!
-Rapscallion!
-Arabesque!
-Lubberly scum!
-Insolent porcupine!
-Dunderheaded coconuts!
-Saucy tramp!
-Fresh water pirate!
-Tribe of savages!
-Monsters!
-Band of thugs!
+lily-livered bandicoots!
+liquorice!
+logarithm!
+lubberly scum!
+macrocephalic baboon!
+mameluke!
+marmeluke!
+megacycle!
+megalomaniac!
+miserable blundering barbecued blister...
+miserable earthworms!
+miserable molecule of mildew!
+misguided missile!
+monopolizers!
+monsters!
+moth-eaten marmot!
+moujiks!
+mountebanks!
+murderers!
+musical morons!
+nest of rattlesnakes!
+nincompoop!
+nitwits!
+nitwitted ninepins!
+numbskulls!
+nyctalops!
+odd-toed ungulate!
+olympic athlete!
+ophicleides!
+orangoutang!
+ostrogoth!
+pachyrhizus!
+paranoiac!
+parasites!
+patagonians!
+phylloxera!
+picaroons!
+pickled herrings!
+pirates!
+pithecanthropuses!
+pockmarks!
+poisoners!
+politician!
+poltroons!
+polygraphs!
+polynesian!
+prattling porpoise!
+prize nincompoop!
+prize purple jelly-fishes!
+profiteers!
+psychopath!
+puffed up punchinello!
+pyrographers!
+pyromaniac!
+rapscallion!
+rats!
+rhizopods!
+road-hogs!
+rotten sand-hoppers!
+ruffian!
+saucy tramp!
+savages!
+scoffing braggart!
+scorpion!
+sea-gherkins!
+sea-lice!
+shipwreckers!
+slave-trader!
+slubberdegullions!
+squawking popinjay!
+steamrollers!
+stool-pigeon!
+subtropical sea louse!
+swine!
+sycophant!
+technocrat!
+terrapins!
+thundering herd of zapotecs!
+thundering son of a sea-gherkin!
+tin-can contraption!
+toads!
+toffee-noses!
+torturers!
+traitors!
+tramps!
+tribe of polynesians!
+tribe of savages!
+troglodytes!
+turncoats!
+twister!
+two-timing tartar twisters!
+unfeeling monsters!
+vagabonds!
+vampires!
+vandal!
+vegetarian!
+vermicellis!
+villain!
+viper!
+visigoths!
+vivisectionists!
+vulture!
+weevil!
+whipper-snapper!
+woodlice!
+wreckers!
+zapotecs!
