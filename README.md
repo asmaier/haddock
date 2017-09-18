@@ -3,9 +3,9 @@
 Aren't you bored of reading and writing the same error messages over and over again
 like "Wrong argument!", "End date must be after start date!" , "Division by zero!" etc. . With the haddock package you will be able to spice them up a bit:
 
-"Wrong argument, dipsomaniac!"
-"End date must be after start date, whipper-snapper!"
-"Division by zero, interplanetary goat!"
+- "Wrong argument, dipsomaniac!"
+- "End date must be after start date, whipper-snapper!"
+- "Division by zero, interplanetary goat!"
 
 To do this, the method curse() of this package returns random curses from [Captain Haddock](https://en.wikipedia.org/wiki/Captain_Haddock). At the moment it supports curses in english (default), german and french. 
 
