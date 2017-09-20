@@ -18,9 +18,8 @@ die-1w100-fluche-des-kapitan-haddock/
 Pull requests for other languages are welcome.
 
 ## Installation
-Clone the git repository and execute the following command in the repository folder:
 
-    python setup.py install
+    pip install haddock-curses
 
 ## Usage
 

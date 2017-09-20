@@ -1,8 +1,13 @@
 from setuptools import setup, find_packages
 
-setup(name='haddock',
-	  version='0.1',
+def readme():
+    with open('README.rst') as f:
+        return f.read()
+
+setup(name='haddock-curses',
+	  version='0.1.3',
 	  description='Random curses from Captain Haddock.',
+	  long_description=readme(),
 	  classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',

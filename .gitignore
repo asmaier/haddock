@@ -10,3 +10,6 @@
 /build/
 
 .DS_Store
+
+# Temporary Readme file
+README.rst
