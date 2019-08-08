@@ -5,13 +5,17 @@ def readme():
         return f.read()
 
 setup(name='haddock-curses',
-	  version='0.1.3',
+	  version='0.1.4',
 	  description='Random curses from Captain Haddock.',
 	  long_description=readme(),
 	  classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
+	'Natural Language :: English',
+	'Natural Language :: French',
+	'Natural Language :: German',
         'Programming Language :: Python :: 2.7',
+	'Programming Language :: Python :: 3',
         'Topic :: Utilities',
       ],
 	  url='https://github.com/asmaier/haddock',

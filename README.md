@@ -39,6 +39,6 @@ You can use the [title() method](https://docs.python.org/3/library/stdtypes.html
 You can decorate existing exception message with curses.
 
     >>> try: 0/0
-    ... except Exception as e: print(e.message + ", " + haddock.curse() + "!")
-    ... 
-    integer division or modulo by zero, confounded rattletrap!!
+    ... except Exception as e: print(str(e) + ", " + haddock.curse() + "!")
+    ...
+    division by zero, confounded rattletrap!!
