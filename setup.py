@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='haddock-curses',
-	  version='0.1.4',
+	  version='0.1.5',
 	  description='Random curses from Captain Haddock.',
 	  long_description=readme(),
 	  classifiers=[
