@@ -42,3 +42,14 @@ You can decorate existing exception message with curses.
     ... except Exception as e: print(str(e) + ", " + haddock.curse() + "!")
     ...
     division by zero, confounded rattletrap!!
+
+## Upload to PyPi
+
+The project needs poetry for package management. To install on e.g. Mac OS X do
+
+    $ brew install poetry
+
+You can then build and upload the package to Pypi simply by
+
+    $ poetry build    # will build both sdist and wheel 
+    $ poetry publish  # by default publishes to PyPi

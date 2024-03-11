@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "haddock-curses"
+version = "0.1.6"
+description = "Random curses from Captain Haddock"
+readme = "README.md"
+classifiers=[
+    'Development Status :: 4 - Beta',
+    'License :: OSI Approved :: MIT License',
+    'Natural Language :: English',
+    'Natural Language :: French',
+    'Natural Language :: German',
+    'Programming Language :: Python :: 2.7',
+    'Programming Language :: Python :: 3',
+    'Topic :: Utilities',
+]
+homepage='https://github.com/asmaier/haddock'
+authors = [
+    "asmaier <asmaier@web.de>"
+]
+license = "MIT"
+packages = [
+    { include = "haddock" }
+]
+
+
+[tool.poetry.dependencies]
+python = ">=2.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
