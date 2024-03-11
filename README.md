@@ -49,7 +49,12 @@ The project needs poetry for package management. To install on e.g. Mac OS X do
 
     $ brew install poetry
 
-You can then build and upload the package to Pypi simply by
+Before you can upload packages to PyPi you need to create an account at PyPi, activate 2FA (e.g. use Google Authenticator)
+and create an API-Token. Then you can configure poetry to use the API-Token like
+
+    $ poetry config pypi-token.pypi <your-api-token>
+
+You can then build and upload the package to PyPi simply by
 
     $ poetry build    # will build both sdist and wheel 
     $ poetry publish  # by default publishes to PyPi
