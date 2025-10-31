@@ -45,16 +45,23 @@ You can decorate existing exception message with curses.
 
 ## Upload to PyPi
 
-The project needs poetry for package management. To install on e.g. Mac OS X do
+The project needs `uv` for package management. To install on e.g. Mac OS X do
 
-    $ brew install poetry
+    $ brew install uv
 
-Before you can upload packages to PyPi you need to create an account at PyPi, activate 2FA (e.g. use Google Authenticator)
-and create an API-Token. Then you can configure poetry to use the API-Token like
+Before you can upload packages to PyPi you need to create an account at PyPi, activate 2FA (e.g. use Ente Authenticator)
+and create an API-Token. Then you can configure `uv` to use the API-Token like
 
-    $ poetry config pypi-token.pypi <your-api-token>
+    $ uv auth login upload.pypi.org
+    username: __token__
+    password: <your-api-token>
 
 You can then build and upload the package to PyPi simply by
 
-    $ poetry build    # will build both sdist and wheel 
-    $ poetry publish  # by default publishes to PyPi
+    $ uv build                         # will build both sdist and wheel 
+    $ uv publish --username __token__  # by default publishes to PyPi
+
+To test if your package was successfully published you can do
+
+    $ uv run --with "haddock-curses==<your-version>" --no-project -- python -c "import haddock; print(haddock.curse())"
+    patagonians!

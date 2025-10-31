@@ -1,32 +1,31 @@
-[tool.poetry]
+[project]
 name = "haddock-curses"
-version = "0.1.6"
+version = "0.1.7"
 description = "Random curses from Captain Haddock"
+authors = [{ name = "asmaier", email = "asmaier@web.de" }]
+requires-python = ">=2.7"
 readme = "README.md"
-classifiers=[
-    'Development Status :: 4 - Beta',
-    'License :: OSI Approved :: MIT License',
-    'Natural Language :: English',
-    'Natural Language :: French',
-    'Natural Language :: German',
-    'Programming Language :: Python :: 2.7',
-    'Programming Language :: Python :: 3',
-    'Topic :: Utilities',
-]
-homepage='https://github.com/asmaier/haddock'
-authors = [
-    "asmaier <asmaier@web.de>"
-]
 license = "MIT"
-packages = [
-    { include = "haddock" }
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Natural Language :: French",
+    "Natural Language :: German",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Topic :: Utilities",
 ]
 
+[project.urls]
+Homepage = "https://github.com/asmaier/haddock"
 
-[tool.poetry.dependencies]
-python = ">=2.7"
+[tool.hatch.build.targets.sdist]
+include = ["haddock"]
 
+[tool.hatch.build.targets.wheel]
+include = ["haddock"]
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"

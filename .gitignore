@@ -4,12 +4,11 @@
 # Setuptools distribution folder.
 /dist/
 
-# Python egg metadata, regenerated from source files by setuptools.
-/*.egg-info
-
-/build/
-
 .DS_Store
 
-# Temporary Readme file
-README.rst
+# IDE
+.idea
+
+# package manager
+.venv
+uv.lock
